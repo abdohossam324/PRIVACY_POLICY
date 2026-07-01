@@ -316,4 +316,4 @@ If you have any questions about this Privacy Policy, You can contact us:
 
 إذا كانت لديك أي أسئلة حول سياسة الخصوصية هذه ، يمكنك الاتصال بنا:
 
-- عن طريق البريد الإلكتروني: [your-email@example.com]
+- عن طريق البريد الإلكتروني: shatabliegypt@gmail.com
