@@ -97,15 +97,25 @@ Your consent to this Privacy Policy followed by Your submission of such informat
 
 The Company will take all steps reasonably necessary to ensure that Your data is treated securely and in accordance with this Privacy Policy and no transfer of Your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of Your data and other personal information.
 
-### Delete Your Personal Data
+### Delete Your Personal Data & Account
 
-You have the right to delete or request that We assist in deleting the Personal Data that We have collected about You.
+You have the right to delete or request that We assist in deleting the Personal Data that We have collected about You, including your entire account.
 
-Our Service may give You the ability to delete certain information about You from within the Service.
+#### How to Delete Your Shatabli Account:
 
-You may update, amend, or delete Your information at any time by signing in to Your Account, if you have one, and visiting the account settings section that allows you to manage Your personal information. You may also contact Us to request access to, correct, or delete any personal information that You have provided to Us.
+1. Open the Shatabli app and sign in to your account
+2. Go to the "My Account" or "Profile" section
+3. Scroll down to the bottom of the page
+4. Tap on "Delete Account"
+5. Confirm your decision when prompted
+6. Your account and all associated data will be deleted permanently
 
-Please note, however, that We may need to retain certain information when we have a legal obligation or lawful basis to do so.
+#### Data Deletion Details:
+
+- **Data that is deleted**: Personal information (name, email, phone, national ID, profile picture), provider profile (skills, portfolio, working hours), order history, chat messages, and usage data.
+- **Data that may be retained**: We may retain some data for legal, tax, or security purposes for a period of up to 90 days, after which it will be fully deleted.
+
+You may also contact Us at shatabliegypt@gmail.com to request access to, correct, or delete any personal information that You have provided to Us.
 
 ### Disclosure of Your Personal Data
 
@@ -155,7 +165,7 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 If you have any questions about this Privacy Policy, You can contact us:
 
-- By email: [shatabliegypt@gmail.com]
+- By email: shatabliegypt@gmail.com
 
 ---
 
@@ -258,15 +268,25 @@ If you have any questions about this Privacy Policy, You can contact us:
 
 ستتخذ الشركة جميع الخطوات المعقولة بشكل كافٍ لضمان معالجة بياناتك بشكل آمن ووفقاً لسياسة الخصوصية هذه ولن يتم إجراء أي نقل لبياناتك الشخصية إلى مؤسسة أو بلد ما لم تكن هناك ضوابط كافية في مكانها بما في ذلك أمان بياناتك ومعلومات شخصية أخرى.
 
-### حذف بياناتك الشخصية
+### حذف بياناتك الشخصية وحسابك
 
-لديك الحق في حذف أو طلب مساعدتنا في حذف البيانات الشخصية التي جمعناها عنك.
+لديك الحق في حذف أو طلب مساعدتنا في حذف البيانات الشخصية التي جمعناها عنك، بما في ذلك حسابك بالكامل.
 
-قد تعطيك خدمتنا القدرة على حذف معلومات معينة عنك من داخل الخدمة.
+#### كيفية حذف حساب شتابلي:
 
-يمكنك تحديث معلوماتك أو تعديلها أو حذفها في أي وقت بتسجيل الدخول إلى حسابك ، إذا كان لديك حساب ، وزيارة قسم إعدادات الحساب الذي يسمح لك بإدارة معلوماتك الشخصية. يمكنك أيضًا الاتصال بنا لطلب الوصول إلى أو تصحيح أو حذف أي معلومات شخصية قدمتها لنا.
+1. افتح تطبيق شتابلي وقم بتسجيل الدخول إلى حسابك
+2. اذهب إلى قسم "حسابي" أو "الملف الشخصي"
+3. قم بالتمرير لأسفل إلى أسفل الصفحة
+4. اضغط على "حذف الحساب"
+5. تأكيد قرارك عند الطلب
+6. سيتم حذف حسابك وجميع البيانات المرتبطة به بشكل دائم
 
-يرجى ملاحظة ، مع ذلك ، أننا قد نحتاج إلى الاحتفاظ بمعلومات معينة عندما يكون لدينا التزام قانوني أو أساس قانوني لذلك.
+#### تفاصيل حذف البيانات:
+
+- **البيانات التي يتم حذفها**: المعلومات الشخصية (الاسم، البريد الإلكتروني، رقم الهاتف، رقم الهوية الوطنية، صورة الملف الشخصي)، ملف مقدم الخدمة (المهارات، المحفظة، ساعات العمل)، سجل الطلبات، رسائل الدردشة، وبيانات الاستخدام.
+- **البيانات التي قد يتم الاحتفاظ بها**: قد نحتفظ ببعض البيانات لأغراض قانونية أو ضريبية أو أمنية لمدة تصل إلى 90 يومًا، وبعد ذلك يتم حذفها بالكامل.
+
+يمكنك أيضًا الاتصال بنا على shatabliegypt@gmail.com لطلب الوصول إلى أو تصحيح أو حذف أي معلومات شخصية قدمتها لنا.
 
 ### إفشاء بياناتك الشخصية
 
